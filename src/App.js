@@ -49,7 +49,7 @@ const App = () => {
 
 
   return (
-    <div>
+    <div className="all-tasks">
       <AllTasks />
     </div>
   )
